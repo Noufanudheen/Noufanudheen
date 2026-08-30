@@ -24,7 +24,7 @@ I build lightweight, practical web tools and developer utilities. I focus on cle
 
 ## Contact
 - Email: me@noufan.me
-- Website: https://noufanudheen.github.io
+- Website: https://noufan.me
 - Twitter: https://twitter.com/noufanudheen
 - LinkedIn: https://linkedin.noufan.me/
 
