@@ -29,5 +29,5 @@ I build lightweight, practical web tools and developer utilities. I focus on cle
 - LinkedIn: https://linkedin.noufan.me/
 
 ## GitHub stats
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Noufanudheen&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
+<!-- [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Noufanudheen&show_icons=true)](https://github.com/stats-organization/github-stats-extended) -->
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=Noufanudheen&layout=compact)](https://github.com/stats-organization/github-stats-extended)
