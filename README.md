@@ -3,14 +3,14 @@
 I build lightweight, practical web tools and developer utilities. I focus on clear user experience, simple deployability, and reliable client-side behavior. This page is a concise introduction and contact hub.
 
 ## About me
-- Location: your city or region
+- Location: Malappuram, Kerala
 - Primary focus: web applications and small tooling
 - Main languages: JavaScript, TypeScript, HTML, CSS, Python, Shell
 
 ## What I do
 - Build small web applications that solve real user needs.
 - Create developer tools and utilities for productivity.
-- Write clear documentation and tutorials.
+- Automate developments.
 
 ## Current focus
 - Improving browser-side performance and smaller bundle sizes
