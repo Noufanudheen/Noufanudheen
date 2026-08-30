@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Noufanudheen
 
-<!--
-**Noufanudheen/Noufanudheen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build lightweight, practical web tools and developer utilities. I focus on clear user experience, simple deployability, and reliable client-side behavior. This page is a concise introduction and contact hub.
 
-Here are some ideas to get you started:
+## About me
+- Location: your city or region
+- Primary focus: web applications and small tooling
+- Main languages: JavaScript, TypeScript, HTML, CSS, Python, Shell
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+- Build small web applications that solve real user needs.
+- Create developer tools and utilities for productivity.
+- Write clear documentation and tutorials.
+
+## Current focus
+- Improving browser-side performance and smaller bundle sizes
+- Learning more about TypeScript patterns and observability
+
+## Skills
+- Languages: JavaScript, TypeScript, Python, Shell
+- Front end: HTML, CSS, client-side JavaScript
+- Tools: Node.js, npm, common bundlers
+- Deployment: static hosting, GitHub Pages
+
+## Contact
+- Email: me@noufan.me
+- Website: https://noufanudheen.github.io
+- Twitter: https://twitter.com/noufanudheen
+- LinkedIn: https://linkedin.noufan.me/
+
+## GitHub stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=noufanudheen&show_icons=true&count_private=true&theme=radical)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noufanudheen&layout=compact&theme=radical)
